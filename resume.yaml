@@ -1,0 +1,120 @@
+education:
+  -
+    institution:
+      name: Georgia Institute of Technology
+      location: Atlanta, GA
+    diplomas:
+      -
+        degree: PhD in Electrical and Computer Engineering
+        gpa: 4
+        honors: null
+        dates:
+          start: Jan 2008
+          end: Present
+      -
+        degree: MS in Electrical and Computer Engineering
+        gpa: 4
+        honors: null
+        dates:
+          start: Jul 2007
+          end: Dec 2008
+  -
+    institution:
+      name: Supélec
+      location: Gif-sur-Yvette, France
+    diplomas:
+      -
+        degree: MS in Electrical and Computer Engineering
+        gpa: 4
+        honors: null
+        dates:
+          start: Aug 2007
+          end: Dec 2008
+      -
+        degree: BS in Electrical and Computer Engineering
+        gpa: 4
+        honors:
+          - Ranked 1st out of 422 students
+        dates:
+          start: Sep 2005
+          end: Jun 2007
+experience:
+  -
+    institution:
+      name: Decision and Control Laboratory
+      location: Atlanta, GA
+    position:
+      role: Graduate Research Assistant
+      accomplishments: null
+      dates:
+        start: Jun 2009
+        end: Present
+  -
+    institution:
+      name: Georgia Electronic Design Center
+      location: Atlanta, GA
+    position:
+      role: Graduate Research Assistant
+      accomplishments:
+        - Designed, simulated and implemented a Sigma-Delta divider for frequency synthesizer in CMOS 90nm STMicroelectronics
+        - Designed, implemented and integrated hardware and software architecture; Architecture based on Linux 2.4 on Virtex 2 Pro
+      dates:
+        start: Aug 2007
+        end: Apr 2009
+  -
+    institution:
+      name: ERMES
+      location: Magny-les-Hameaux, France
+    position:
+      role: Software Developer
+      accomplishments:
+        - Developed an embedded application for use in geotechnical equipments (Choice of the Panel PC based hardware and peripherals. Design of the interface to be implemented in C++)
+      dates:
+        start: Jul 2007
+        end: Aug 2007
+  -
+    institution:
+      name: Abound Logic (formerly m2000)
+      location: Bièvres, France
+    position:
+      role: Electronic Developer
+      accomplishments:
+        - Developed a USB 2.0 link between a PC host under Windows XP and a FPGA (Creation of the software on the PC in C++/CLI and of the firmware on a 8051-based USB 2.0 microcontroller.)
+      dates:
+        start: Apr 2007
+        end: Jul 2007
+  -
+    institution:
+      name: Independent semester projects
+      location: Gif-sur-Yvette, France
+    position:
+      role: Student Developer
+      accomplishments:
+        - Developed a domotics network. Designed the board and implemented firmware and software
+        - Created and implemented meaning-based Web search through self-learning database; designed heuristics
+        - Implemented genetic algorithms solving labyrinths in C, C++ and Java
+        - Implemented artificial neural network in Maple; transferred the learned network into homemade Lego robot
+      dates:
+        start: Jul 2005
+        end: Jun 2007
+# skills:
+#   skillsets:
+#     - linguistics:
+#       - French
+#       - English
+#       - Japanese
+#       - Russian
+#     - computer:
+#       - programming languages:
+#         - python
+#         - C, C++, Objective-C
+#       - tools
+#       - operating systems
+#         - MacOS
+#         - Linux
+#         - OpenBSD
+#       - hardware
+#     - electronics:
+#       - HDL languages
+#       - Applications
+#       - Hardware
