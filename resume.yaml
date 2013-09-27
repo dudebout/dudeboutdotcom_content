@@ -7,14 +7,16 @@ education:
       -
         degree: PhD in Electrical and Computer Engineering
         gpa: 4
-        honors: null
+        honors:
+          - Systems and Controls
         dates:
-          start: Jan 2008
+          start: Jan 2009
           end: Present
       -
         degree: MS in Electrical and Computer Engineering
         gpa: 4
-        honors: null
+        honors:
+          - VLSI Systems and Digital Design
         dates:
           start: Jul 2007
           end: Dec 2008
@@ -43,78 +45,77 @@ experience:
     institution:
       name: Decision and Control Laboratory
       location: Atlanta, GA
-    position:
-      role: Graduate Research Assistant
-      accomplishments: null
-      dates:
-        start: Jun 2009
-        end: Present
+    positions:
+      -
+        role: Research Assistant
+        accomplishments:
+          - Implemented a game-theoretic learning simulator in Haskell
+        dates:
+          start: Jun 2009
+          end: Present
+      -
+        role: Teaching Assistant for *Game Theory and Multiagent Systems* class
+        accomplishments: null
+        dates:
+          start: Jan 2010
+          end: May 2010
   -
     institution:
       name: Georgia Electronic Design Center
       location: Atlanta, GA
-    position:
-      role: Graduate Research Assistant
-      accomplishments:
-        - Designed, simulated and implemented a Sigma-Delta divider for frequency synthesizer in CMOS 90nm STMicroelectronics
-        - Designed, implemented and integrated hardware and software architecture; Architecture based on Linux 2.4 on Virtex 2 Pro
-      dates:
-        start: Aug 2007
-        end: Apr 2009
+    positions:
+      -
+        role: Research Assistant
+        accomplishments:
+          - Assembled a PowerPC 405-based system on Xilinx Virtex 2 Pro running Linux 2.4
+          - Designed a hardware peripheral in Verilog and the associated kernel driver in C
+          - Built a Web-based application on this hardware stack used in demonstrations at CES
+          - Implemented a Sigma-Delta divider for frequency synthesizer in CMOS 90 nm STMicroelectronics
+        dates:
+          start: Aug 2007
+          end: May 2009
   -
     institution:
       name: ERMES
       location: Magny-les-Hameaux, France
-    position:
-      role: Software Developer
-      accomplishments:
-        - Developed an embedded application for use in geotechnical equipments (Choice of the Panel PC based hardware and peripherals. Design of the interface to be implemented in C++)
-      dates:
-        start: Jul 2007
-        end: Aug 2007
+    positions:
+      -
+        role: System Designer
+        accomplishments:
+          - Identified the requirements of a Panel PC and peripherals  for use in geotechnical equipments
+          - Designed the embedded application to be implemented on the Panel PC
+
+        dates:
+          start: Jul 2007
+          end: Aug 2007
   -
     institution:
       name: Abound Logic (formerly m2000)
       location: Bièvres, France
-    position:
-      role: Electronic Developer
-      accomplishments:
-        - Developed a USB 2.0 link between a PC host under Windows XP and a FPGA (Creation of the software on the PC in C++/CLI and of the firmware on a 8051-based USB 2.0 microcontroller.)
-      dates:
-        start: Apr 2007
-        end: Jul 2007
+    positions:
+      -
+        role: Software Developer
+        accomplishments:
+          - Developed a USB 2.0 peripheral in C on an 8051-based microcontroller
+          - Implemented the associated Windows XP driver in C++/CLI, allowing the configuration of an FPGA
+        dates:
+          start: Apr 2007
+          end: Jul 2007
   -
     institution:
-      name: Independent semester projects
+      name: Semester-long projects
       location: Gif-sur-Yvette, France
-    position:
-      role: Student Developer
-      accomplishments:
-        - Developed a domotics network. Designed the board and implemented firmware and software
-        - Created and implemented meaning-based Web search through self-learning database; designed heuristics
-        - Implemented genetic algorithms solving labyrinths in C, C++ and Java
-        - Implemented artificial neural network in Maple; transferred the learned network into homemade Lego robot
-      dates:
-        start: Jul 2005
-        end: Jun 2007
-# skills:
-#   skillsets:
-#     - linguistics:
-#       - French
-#       - English
-#       - Japanese
-#       - Russian
-#     - computer:
-#       - programming languages:
-#         - python
-#         - C, C++, Objective-C
-#       - tools
-#       - operating systems
-#         - MacOS
-#         - Linux
-#         - OpenBSD
-#       - hardware
-#     - electronics:
-#       - HDL languages
-#       - Applications
-#       - Hardware
+    positions:
+      -
+        role: Undergraduate Student
+        accomplishments:
+          - Developed a USB domotics network around Microchip PICs programmed in C
+          - Designed and implemented meaning-based Web search through self-learning database in Objective-C
+          - Implemented genetic algorithms solving labyrinths in Java
+        dates:
+          start: Jul 2005
+          end: Jun 2007
+programmingSkills:
+  - Haskell, Python, Emacs Lisp, shell scripting, Matlab, Java, Objective-C, C++, C
+  - LaTeX, HTML, CSS
+  - Emacs, Git, make
