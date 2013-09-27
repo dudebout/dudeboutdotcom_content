@@ -7,6 +7,12 @@ This library was first used to [illustrate the learnability of empirical-evidenc
 It accomodates arbitrary numbers of players by using [HLists](http://hackage.haskell.org/package/HList) as variable-length tuples.
 I coded helper functions for this use case and made them available on Hackage under the name [tuple-hlist](http://hackage.haskell.org/package/tuple-hlist).
 
+## matrix.skeleton
+
+[matrix.skeleton](https://github.com/dudebout/matrix.skeleton) is a [PGF/TikZ](http://www.texample.net/tikz/) library that simplifies working with multiple matrix nodes. To do so, matrix.skeleton correctly aligns groups of nodes with the content of the whole matrix.
+Furthermore, matrix.skeleton provides rows and columns for easy styling.
+For more information, read the manual.
+
 ## LaTeX
 
 <div class="meta-p">

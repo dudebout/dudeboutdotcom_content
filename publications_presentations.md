@@ -20,11 +20,11 @@
 ## Game Theory for Control Engineers
 
 + Part 2, March 16, 2011
-[Slides](static/files/presentation-part2.pdf),
-[Handout](static/files/handout-part2.pdf),
+[Slides](static/files/game_theory_for_control_engineers-presentation-part2.pdf),
+[Handout](static/files/game_theory_for_control_engineers-handout-part2.pdf),
 [Repository](http://github.com/dudebout/game_theory_for_control_engineers)
 
 + Part 1, March 9, 2011
-[Slides](static/files/presentation-part1.pdf),
-[Handout](static/files/handout-part1.pdf),
+[Slides](static/files/game_theory_for_control_engineers-presentation-part1.pdf),
+[Handout](static/files/game_theory_for_control_engineers-handout-part1.pdf),
 [Repository](http://github.com/dudebout/game_theory_for_control_engineers)
