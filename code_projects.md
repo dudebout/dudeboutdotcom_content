@@ -11,7 +11,7 @@ I coded helper functions for this use case and made them available on Hackage un
 
 [matrix.skeleton](https://github.com/dudebout/matrix.skeleton) is a [PGF/TikZ](http://www.texample.net/tikz/) library that simplifies working with multiple matrix nodes. To do so, matrix.skeleton correctly aligns groups of nodes with the content of the whole matrix.
 Furthermore, matrix.skeleton provides rows and columns for easy styling.
-For more information, read the manual.
+More information and examples are available in [the manual](/files/pdfs/matrix.skeleton-manual.pdf).
 
 ## LaTeX
 

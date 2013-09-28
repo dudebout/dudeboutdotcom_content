@@ -7,7 +7,7 @@ My key can be retrieved from keyserver [`pgp.mit.edu`](http://pgp.mit.edu) with 
 $ gpg --keyserver pgp.mit.edu --recv-keys 1E521042
 ~~~
 
-or imported as an [ASCII-armored file](/static/files/nicolas_dudebout_gatech_pgp_pub.asc):
+or imported as an [ASCII-armored file](/files/nicolas_dudebout_gatech_pgp_pub.asc):
 
 ~~~{.attached}
 $ gpg --import nicolas_dudebout_gatech_pgp_pub.asc
