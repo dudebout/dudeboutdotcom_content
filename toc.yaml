@@ -1,0 +1,35 @@
+home:
+    title: ""
+    articles:
+        - file: home_introduction.md
+          composer: markdown
+        - file: home_research.md
+          composer: markdown
+resume:
+    title: Résumé
+    articles:
+        - file: resume.yaml
+          composer: resume
+publications:
+    title: Publications
+    articles:
+        - file: publications_reproducible_research.md
+          composer: markdown
+        - file: publications.bib
+          composer: publications
+        - file: publications_presentations.md
+          composer: markdown
+code:
+    title: Code
+    articles:
+        - file: code_projects.md
+          composer: markdown
+        - file: code_open_source_contributions.md
+          composer: markdown
+contact:
+    title: Contact
+    articles:
+        - file: contact_email.md
+          composer: markdown
+        - file: contact_pgp_public_key.md
+          composer: markdown
