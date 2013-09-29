@@ -33,3 +33,6 @@ contact:
           composer: markdown
         - file: contact_pgp_public_key.md
           composer: markdown
+footer:
+    copyright: 2009—2013
+    last_updated: 09/29/2013
