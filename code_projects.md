@@ -30,6 +30,7 @@ More information and examples are available in [the manual](/files/pdfs/matrix.s
   + [latex_ddbthm](http://github.com/dudebout/latex_ddbthm): list of theorems and theorem styles
   + [latex_ddbinfo](http://github.com/dudebout/latex_ddbinfo): author information used in all my publications
   + [latex_ddbieee](http://github.com/dudebout/latex_ddbieee): code to comply with IEEE's requirements automatically
+  + [latex_ddbglossaries](http://github.com/dudebout/latex_ddbglossaries): extension for [glossaries](http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries) inserting the appropriate indefinite article for acronyms
 
 </div>
 
