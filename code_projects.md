@@ -38,7 +38,7 @@ More information and examples are available in [the manual](/files/pdfs/matrix.s
 ## dudebout.com
 
 The [code](http://github.com/dudebout/dudeboutdotcom) and the [content](http://github.com/dudebout/dudeboutdotcom_content) of this website are available on GitHub.
-It runs on [Yesod](http://yesodweb.com) and [Bootstrap](http://twitter.github.com/bootstrap).
+It runs on [Yesod](http://yesodweb.com) and [Bootstrap](http://getbootstrap.com).
 Most pages are written in Markdown with the exception of [the résumé](resume), generated from YAML, and [the list of publications](publications) from BibTeX.
 
 
