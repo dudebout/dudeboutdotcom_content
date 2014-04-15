@@ -7,7 +7,7 @@
 [Handout](/files/pdfs/cdc_2012-handout.pdf),
 [Repository](http://github.com/dudebout/cdc_2012_dudebout_shamma/tree/master/presentations/cdc_2012-12-12)
 
-+ PhD Proposal, November 29, 1012:
++ PhD Proposal, November 29, 2012:
 [Slides](/files/pdfs/phd_proposal-slides.pdf),
 [Handout](/files/pdfs/phd_proposal-handout.pdf),
 [Repository](http://github.com/dudebout/phd_proposal/tree/master/presentation)
