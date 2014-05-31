@@ -43,6 +43,17 @@ education:
 experience:
   -
     institution:
+      name: Goldman Sachs
+      location: New York, NY
+    positions:
+      -
+        role: Associate
+        accomplishments: null
+        dates:
+          start: May 2014
+          end: Present
+  -
+    institution:
       name: Decision and Control Laboratory
       location: Atlanta, GA
     positions:
