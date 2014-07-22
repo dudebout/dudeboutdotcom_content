@@ -2,6 +2,11 @@
 
 ## Empirical-evidence Equilibria
 
++ PhD Thesis, April 14, 2014:
+[Slides](/files/pdfs/phd_thesis-slides.pdf),
+[Handout](/files/pdfs/phd_thesis-handout.pdf),
+[Repository](http://github.com/dudebout/phd_thesis/tree/master/presentation)
+
 + IEEE CDC, December 12, 2012:
 [Slides](/files/pdfs/cdc_2012-slides.pdf),
 [Handout](/files/pdfs/cdc_2012-handout.pdf),
