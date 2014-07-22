@@ -127,6 +127,6 @@ experience:
           start: Jul 2005
           end: Jun 2007
 programmingSkills:
-  - Haskell, Python, Emacs Lisp, shell scripting, Matlab, Java, Objective-C, C++, C
-  - LaTeX, HTML, CSS
+  - Haskell, Erlang, Python, Emacs Lisp, shell scripting, Matlab, Java, Objective-C, C++, C
+  - LaTeX, PGF/TikZ, HTML, CSS
   - Emacs, Git, make
